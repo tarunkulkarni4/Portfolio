@@ -78,30 +78,34 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
-        description: 'Web Design',
+        title: 'Food-Delivery',
+        description: 'Web Dev',
         bgImage: '/work-1.png',
+        link:'https://tomatof-in.onrender.com/',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
+        title: 'E-commerce',
+        description: 'Web Dev',
         bgImage: '/work-2.png',
+        link:'',
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
+        title: 'Chat-App',
+        description: 'Web Dev',
         bgImage: '/work-3.png',
+        link:'',
     },
     {
         title: 'UI/UX designing',
         description: 'UI/UX Design',
         bgImage: '/work-4.png',
+        link:'',
     },
 ]
 
 export const serviceData = [
     { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.mobile_icon, title: 'Mobile app', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
+    { icon: assets.web_icon, title: 'Web Development', description: 'web development involves creating software for Web devices...', link: '' },
     { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
     { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
 ]

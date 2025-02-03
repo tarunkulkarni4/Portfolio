@@ -24,7 +24,7 @@ From full-stack applications to seamless integrations, I create scalable and eff
             <p className="text-sm text-gray-600 leading-5 dark:text-white/80">{description}</p>
             <a href={link} className="flex items-center gap-2 text-sm mt-5">
               Read More{" "}
-              <Image src={assets.right_arrow} alt="" className="w-4" />
+              <Image src={assets.right_arrow} alt="" className="w-4"  />
             </a>
           </div>
         ))}
