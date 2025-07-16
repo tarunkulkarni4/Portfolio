@@ -84,16 +84,16 @@ export const workData = [
         link:'https://tomatof-in.onrender.com/',
     },
     {
-        title: 'E-commerce',
+        title: 'Prescripto',
         description: 'Web Dev',
         bgImage: '/work-2.png',
-        link:'',
+        link:'https://prescripto-front-end-ulur.vercel.app/',
     },
     {
-        title: 'Chat-App',
+        title: 'Schedulerr',
         description: 'Web Dev',
         bgImage: '/work-3.png',
-        link:'',
+        link:'https://scheduler-pret.vercel.app/',
     },
     {
         title: 'UI/UX designing',
